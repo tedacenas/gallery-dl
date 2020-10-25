@@ -147,6 +147,8 @@ Turboimagehost       https://www.turboimagehost.com/     individual Images
 かべうち                 https://kabe-uchiroom.com/          User Profiles
 もえぴりあ                https://vanilla-rock.com/           Posts, Tag Searches
 半次元                  https://bcy.net/                    Posts, User Profiles
+Porngif              https://www.porngif.co/             individual Images
+Porno.com.pt         https://porno.com.pt/               Thumbnails, individual Images
 ==================== =================================== ================================================== ================
 
 .. |35photo-C| replace:: Genres, individual Images, Tag Searches, User Profiles
